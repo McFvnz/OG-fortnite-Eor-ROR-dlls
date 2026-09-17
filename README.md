@@ -1,2 +1,3 @@
-These 2 dlls are made so you can implament them into your launcher so it can help with simplifying the toggle coding in the launcher to apply these options
-they turn on automaticly once injected
+These 2 DLLS are made for og fn projects for people who want to Enable Eor (Edit on release) or Enable Ror (Reset on release)
+These also have no toggle hot key so they work on inject
+You can also put these into your own project launcher for free use so you can enable working launcher toggle settings
