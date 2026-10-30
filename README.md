@@ -2,7 +2,7 @@
 
 2 DLLS for wanting edit on release or reset on release for og fortnite. These are free to use for anyone. If you want me to upload the files to open source as well, send me a dm on Discord (mcfnvz)
 
-> **Status: WIP.** These DLLS are complete and work on inject with no toggle key. 
+> **Status:** These DLLS are complete and work on inject with no toggle key. 
 ---
 ## Features
 
